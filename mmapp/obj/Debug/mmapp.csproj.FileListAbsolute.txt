@@ -1,0 +1,11 @@
+c:\users\dishantdkc\documents\visual studio 2012\Projects\mmapp\mmapp\bin\Debug\mmapp.exe.config
+c:\users\dishantdkc\documents\visual studio 2012\Projects\mmapp\mmapp\bin\Debug\mmapp.exe
+c:\users\dishantdkc\documents\visual studio 2012\Projects\mmapp\mmapp\bin\Debug\mmapp.pdb
+c:\users\dishantdkc\documents\visual studio 2012\Projects\mmapp\mmapp\obj\Debug\mmapp.csprojResolveAssemblyReference.cache
+c:\users\dishantdkc\documents\visual studio 2012\Projects\mmapp\mmapp\obj\Debug\mmapp.Form1.resources
+c:\users\dishantdkc\documents\visual studio 2012\Projects\mmapp\mmapp\obj\Debug\mmapp.Properties.Resources.resources
+c:\users\dishantdkc\documents\visual studio 2012\Projects\mmapp\mmapp\obj\Debug\mmapp.csproj.GenerateResource.Cache
+c:\users\dishantdkc\documents\visual studio 2012\Projects\mmapp\mmapp\obj\Debug\mmapp.exe
+c:\users\dishantdkc\documents\visual studio 2012\Projects\mmapp\mmapp\obj\Debug\mmapp.pdb
+c:\users\dishantdkc\documents\visual studio 2012\Projects\mmapp\mmapp\obj\Debug\mmapp.main.resources
+C:\Users\dishantdkc\Documents\Visual Studio 2012\Projects\mmapp\mmapp\obj\Debug\mmapp.new.resources

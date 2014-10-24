@@ -1,0 +1,10 @@
+C:\Users\dishantdkc\Documents\Visual Studio 2012\Projects\mmapp\mmapp\bin\Release\mmapp.exe.config
+C:\Users\dishantdkc\Documents\Visual Studio 2012\Projects\mmapp\mmapp\bin\Release\mmapp.exe
+C:\Users\dishantdkc\Documents\Visual Studio 2012\Projects\mmapp\mmapp\bin\Release\mmapp.pdb
+C:\Users\dishantdkc\Documents\Visual Studio 2012\Projects\mmapp\mmapp\bin\Release\SQLite.NET.dll
+C:\Users\dishantdkc\Documents\Visual Studio 2012\Projects\mmapp\mmapp\obj\Release\mmapp.Form1.resources
+C:\Users\dishantdkc\Documents\Visual Studio 2012\Projects\mmapp\mmapp\obj\Release\mmapp.main.resources
+C:\Users\dishantdkc\Documents\Visual Studio 2012\Projects\mmapp\mmapp\obj\Release\mmapp.Properties.Resources.resources
+C:\Users\dishantdkc\Documents\Visual Studio 2012\Projects\mmapp\mmapp\obj\Release\mmapp.csproj.GenerateResource.Cache
+C:\Users\dishantdkc\Documents\Visual Studio 2012\Projects\mmapp\mmapp\obj\Release\mmapp.exe
+C:\Users\dishantdkc\Documents\Visual Studio 2012\Projects\mmapp\mmapp\obj\Release\mmapp.pdb
