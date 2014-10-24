@@ -186,10 +186,12 @@ namespace mmapp
                     EvntAmt[Evntnos].Text = sqlite_datareader["amt"].ToString();
                     EvntCat[Evntnos].Text = sqlite_datareader["cat"].ToString();
 
+                    //MessageBox.Show(sqlite_datareader["mny"].ToString());
+
                     EvntSr[Evntnos].Size = new Size(25, 25);
                     EvntMny[Evntnos].Size = new Size(50, 25);
                     EvntDt[Evntnos].Size = new Size(65, 25);
-                    EvntAmt[Evntnos].Size = new Size(30, 25);
+                    EvntAmt[Evntnos].Size = new Size(50, 25);
                     EvntCat[Evntnos].Size = new Size(70, 25);
 
 
